@@ -20,7 +20,7 @@ In the first part of our assignment we imported, cleaned the data and then split
 
 #### Clustered Centroid Results
 
-![Clustered_Centroid](https://github.com/MXV0921/Credit_Risk_Analysis/blob/main/Images/Clustered_Centroids.png
+![Clustered_Centroid](https://github.com/MXV0921/Credit_Risk_Analysis/blob/main/Images/Clustered_Centroids.png)
 
 ### Summary of Results
 
