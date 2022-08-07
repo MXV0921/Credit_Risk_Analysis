@@ -12,15 +12,15 @@ In the first part of our assignment we imported, cleaned the data and then split
 
 #### Random Oversampling Results
 
-![Naive_Oversampling](url)
+![Naive_Oversampling](https://github.com/MXV0921/Credit_Risk_Analysis/blob/main/Images/Naive_Random_Oversampling.png)
 
 #### SMOTE Results
 
-![SMOTE](url)
+![SMOTE](https://github.com/MXV0921/Credit_Risk_Analysis/blob/main/Images/SMOTE_Oversampling.png)
 
 #### Clustered Centroid Results
 
-![Clustered_Centroid](url)
+![Clustered_Centroid](https://github.com/MXV0921/Credit_Risk_Analysis/blob/main/Images/Clustered_Centroids.png
 
 ### Summary of Results
 
